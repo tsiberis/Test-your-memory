@@ -1,0 +1,12 @@
+"Test your memory v0.2"^a simple game for all kids^^by Takis Tsiberis^http://takira.freehosting.net/^& takira_gr@yahoo.com^
+Copyright (C) 2009 by Panagiotis^Tsiberis. This program is free^software: you can redistribute it^and/or modify it under the terms^of the GNU General Public License^as published by the Free Software^Foundation, either version 2 of^the License, or (at your option)^any later version.^
+^Based on an idea written^back at the old days^for an Amstrad CPC464^by a budy; Panos:^^http://www.facebook.com/^people/Panos-Pantazis/1259328723^
+Thanks to:^^Joe "piman" Wreschnig^for Sprite tutorial.^^Matoula & Harry-Rafael^for their support.^
+^^Coding done with:^Python, Pygame, IDLE, Gedit.^
+^Works for:^Linux,^The Mac^& Windowz.^^Enjoy !!!^
+^All colors:^"RGB to Color Name Mapping"^by Kevin J. Walsh^^http://web.njit.edu/~kevin/rgb.txt.html^
+^All midi sounds:^Rosegarden^^http://www.rosegardenmusic.com/^
+Fonts are:^Bitstream Vera Serif^Copyright (C) 2003^by Bitstream, Inc.^All Rights Reserved^^http://www.bitstream.com^
+Music is Robert Schumann's^"Kinderscenen" Op.15 No.1 & No.3^from the mutopia project:^http://www.mutopiaproject.org/^^Maintainer is Ying-Chun Liu^http://www.cis.nctu.edu.tw/~is86007/^
+%
+
